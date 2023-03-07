@@ -1,1 +1,2 @@
-#ignorados 
+# ignore all logs
+*.log
